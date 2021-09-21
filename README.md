@@ -1,3 +1,8 @@
-# kotlin
+# Katas in Kotlin
 
-This is an empty kotlin project uses as bootstrap to ease setting up a kata
+This repository holds some katas from leetcode.
+
+The day packages (e.g. day1) refer to the study plans:
+
+https://leetcode.com/study-plan/algorithm
+
